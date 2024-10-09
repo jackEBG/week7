@@ -1,0 +1,9 @@
+pip install beautifulsoup4
+pip install scrapy
+python -m pip install selenium
+pip install opencv-python
+pip install ultralytics
+from ultralytics import YOLO
+pip install fastapi uvicorn
+pip install dbt
+python -m pip show sqlalchemy
